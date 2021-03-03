@@ -1,4 +1,0 @@
-1,The Gentlemen,Action,English,2020/1/24,Charlie Hunnam-Matthew McConaughey-Colin Farrell-Hugh Grant-Michelle Dockery-Henry Golding,7.8,115171795
-2,Forrest Gump,Drama,English,1994/7/6,Tom Hanks-Robin Wright-Gary Sinise-Sally Field,8.8,678226133
-3,Udaan,Drama,Hindi,2010/7/16,Rajat Barmecha-Ronit Roy-Manjot Singh-Ram Kapoor,8.2,434862
-4,Your Name.,Fantasy,Japanese,2017/4/7,Ryunosuke Kamiki-Mone Kamishiraishi-Ryo Narita,8.4,358922706 
